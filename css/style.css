@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+    background-color: #d8f0f2;
+}
+
+h1 {
+    color: #000;
+}
+
+.content {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+img {
+    border: 2px solid black;
+    max-width: 300px;
+    height: auto;
+}
+
+.float-left {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
